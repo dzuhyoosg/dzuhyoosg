@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ziyu Song. 我是宋子钰。
+## My name is Ziyu Song (Dzuh-yoo-sg).
 
-I am currently a master’s student studying Information Systems and Applied Information Science at Cornell Tech (Cornell University). Concentration in Health Tech. 
+I am currently a master’s student studying **Information Systems** and Applied Information Science at Cornell Tech (Cornell University). Concentration in Health Tech. 
 
 I graduated from the University of Rochester studying Data Science (B.S.) with minors in Legal Studies and Statistics, cluster in French. Concentration in Political Science. 👩🏻‍🎓
 
