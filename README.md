@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Ziyu Song (Dzuh-yoo-sg).
+### My name is Ziyu Song (id: dzuhyoosg).
 
 I am currently a master’s student studying **Information Systems** and **Applied Information Science** at **Cornell Tech** (Cornell University). Concentration in Health Tech with a Computer Science Specialization (Technion).
 
