@@ -28,4 +28,9 @@ I am currently a master’s student studying **Information Systems** and **Appli
 - 📫 How to reach me: ziyusong10@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: When I'm not coding, I enjoy hiking/skiing ⛷. 
-- ⚡ Fun fact in My Tech Learning: I'm also interested in Legal Tech and Health Tech. 
+
+### Skills
+- 🌱 Java, Python, R, SQL, HTML/CSS, BigQuery
+- 🌱 Big Data Analysis, Data Visualization 
+- 🌱 Machine Learning, Data Mining
+- 🌱 I’m currently learning HCI and Design
