@@ -31,6 +31,6 @@ I am currently a master’s student studying **Information Systems** and **Appli
 
 ### Skills
 - 🌱 Java, Python, R, SQL, HTML/CSS, BigQuery
-- 🌱 Big Data Analysis, Data Visualization 
+- 🌱 Big Data Analysis, Data Visualization, Web Design
 - 🌱 Machine Learning, Data Mining
 - 🌱 I’m currently learning HCI and Design
