@@ -25,7 +25,7 @@ I am currently a master’s student studying **Information Systems** and **Appli
 
 🌟 I enjoy roles that are challenging and diverse. I have a strong curiosity about innovative things. I want to learn more about them, develop effective products, and want to see what I could do in the field, how can I contribute to it as a woman studying technology. 
 
-- 📫 How to reach me: ziyusong10@gmail.com
+- 📫 How to reach me: ziyusong.szy@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: When I'm not coding, I enjoy hiking/skiing ⛷. 
 
