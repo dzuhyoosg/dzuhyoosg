@@ -30,7 +30,7 @@ I am currently a master’s student studying **Information Systems** and **Appli
 - ⚡ Fun fact: When I'm not coding, I enjoy hiking/skiing ⛷. 
 
 ### Skills
-- 🌱 Java, Python, R, SQL, Perl, HTML/CSS, BigQuery
+- 🌱 Java, Python, GO, R, SQL, Perl, HTML/CSS, BigQuery
 - 🌱 Big Data Analysis, Data Visualization, Data Modeling, Web Design
 - 🌱 Machine Learning, Deep Learning, Data Mining
 - 🌱 I’m currently learning HCI and Design
