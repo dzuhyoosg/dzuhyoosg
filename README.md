@@ -41,6 +41,7 @@ I am currently a master’s student studying **Information Systems** and **Appli
 <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 <p align="left">
@@ -59,4 +60,4 @@ I am currently a master’s student studying **Information Systems** and **Appli
 - 🌱 Software Engineering, includes but not limit to: ability to conduct code review and write unit tests (100% test converage)
 - 🌱 Big Data Analysis, Data Visualization, Data Modeling, Web Design
 - 🌱 Machine Learning, Deep Learning, Data Mining
-- 🌱 I’m currently learning HCI and Design
+- 🌱 I’m currently learning Security and Privacy
