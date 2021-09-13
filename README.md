@@ -31,7 +31,7 @@ I am currently a master’s student studying **Information Systems** and **Appli
 
 - 📫 How to reach me: connect me on LinkedIn! 
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: When I'm not coding, I enjoy hiking/skiing ⛷. 
+- ⚡ Fun fact: When I'm not coding, I enjoy hiking 🥾 and skiing ⛷. 
 
 ---
 
