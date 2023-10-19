@@ -57,8 +57,6 @@ I am currently a master’s student studying **Information Systems** and **Appli
 ---
 
 ### Skills
-- 🌱 Java, Python, Go, R, SQL, Perl, HTML/CSS, BigQuery
+- 🌱 Java, Python, Go, R, SQL, HTML/CSS, BigQuery
 - 🌱 Software Engineering, includes but not limit to: ability to conduct code review and write unit tests (100% test converage)
 - 🌱 Big Data Analysis, Data Visualization, Data Modeling, Web Design
-- 🌱 Machine Learning, Deep Learning, Data Mining
-- 🌱 I’m currently learning Security and Privacy
