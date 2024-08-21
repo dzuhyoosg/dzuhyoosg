@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### My name is Ziyu Song (id: dzuhyoosg).
 
-I am currently a master’s student studying **Information Systems** and **Applied Information Science** at **Cornell Tech** (Cornell University). Concentration in Health Tech with a Computer Science Specialization (Technion).
+I am currently a Software Engineer based in NYC.
+
+👩🏻‍🎓 I graduated from **Cornell Tech** (Cornell University) studying **Information Systems** and **Applied Information Science** (M.S.). Concentration in Health Tech with a Computer Science Specialization (Technion). 
 
 👩🏻‍🎓 I graduated from the University of Rochester studying **Data Science** (B.S.) with minors in Legal Studies and Statistics, cluster in French. Concentration in Political Science. 
 
@@ -46,6 +48,7 @@ I am currently a master’s student studying **Information Systems** and **Appli
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -57,6 +60,6 @@ I am currently a master’s student studying **Information Systems** and **Appli
 ---
 
 ### Skills
-- 🌱 Java, Python, Go, R, SQL, HTML/CSS, BigQuery
+- 🌱 Java, Kotlin, Python, Go, R, SQL, HTML/CSS, BigQuery
 - 🌱 Software Engineering, includes but not limit to: ability to conduct code review and write unit tests (100% test converage)
 - 🌱 Big Data Analysis, Data Visualization, Data Modeling, Web Design
