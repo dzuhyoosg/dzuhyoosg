@@ -33,7 +33,7 @@ I am currently a Software Engineer based in NYC.
 
 - 📫 How to reach me: connect me on LinkedIn! 
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: When I'm not coding, I enjoy hiking 🥾 and skiing ⛷. 
+- ⚡ Fun fact: When I'm not coding, I enjoy strength training 🏋️‍♀️ and skiing ⛷. 
 
 ---
 
